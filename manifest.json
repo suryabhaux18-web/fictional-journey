@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <!-- Advanced SEO Meta Tags -->
+    <title>Next Toppers – Best Study Platform for Class 8-12, JEE & NEET</title>
+    <meta name="description" content="Next Toppers is India's leading educational platform providing free study material, class 8 to 12 notes, JEE & NEET preparation, online video lectures, mock tests, and DPP PDF downloads. Join our free batches today!" />
+    <meta name="keywords" content="Next Toppers, free study material, class 8 to 12 notes, JEE preparation, NEET preparation, online lectures, CBSE study platform, educational website India, free batches, video lectures, mock tests, DPP PDF download" />
+    <meta name="author" content="Next Toppers" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://next-topper-two.vercel.app/" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://next-topper-two.vercel.app/" />
+    <meta property="og:title" content="Next Toppers – Best Study Platform for Class 8-12, JEE & NEET" />
+    <meta property="og:description" content="India's leading educational platform for board & competitive exams. Get free notes, video lectures, and mock tests for Class 8-12, JEE, and NEET." />
+    <meta property="og:image" content="https://i.postimg.cc/KjvFgP0h/favicon.jpg" />
+    <meta property="og:site_name" content="Next Toppers" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://next-topper-two.vercel.app/" />
+    <meta property="twitter:title" content="Next Toppers – Best Study Platform for Class 8-12, JEE & NEET" />
+    <meta property="twitter:description" content="India's leading educational platform for board & competitive exams. Get free notes, video lectures, and mock tests for Class 8-12, JEE, and NEET." />
+    <meta property="twitter:image" content="https://i.postimg.cc/KjvFgP0h/favicon.jpg" />
+
+    <!-- Structured Data: JSON-LD -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "EducationalOrganization",
+      "name": "Next Toppers",
+      "url": "https://next-topper-two.vercel.app/",
+      "logo": "https://i.postimg.cc/KjvFgP0h/favicon.jpg",
+      "description": "Premium educational platform providing resources for CBSE Class 8-12, JEE, and NEET preparation.",
+      "sameAs": [
+        "https://www.facebook.com/nexttoppers",
+        "https://www.instagram.com/nexttoppers",
+        "https://www.youtube.com/nexttoppers"
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://next-topper-two.vercel.app/",
+      "name": "Next Toppers",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://next-topper-two.vercel.app/?search={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+
+    <!-- Performance Optimizations -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://i.postimg.cc" />
+    <link rel="preconnect" href="https://course.nexttoppers.com" />
+    
+    <!-- Main Favicon -->
+    <link rel="icon" type="image/jpg" href="https://i.postimg.cc/KjvFgP0h/favicon.jpg">
+    <!-- PNG Favicons -->
+    <link rel="icon" type="image/png" sizes="16x16" href="https://i.postimg.cc/q7hNNTzG/favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://i.postimg.cc/D0qs8Kpg/favicon-32x32.png">
+    <!-- Apple Touch Icon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://i.postimg.cc/8kBjJwzQ/apple-touch-icon.png">
+    <!-- Android Chrome Icons -->
+    <link rel="icon" type="image/png" sizes="192x192" href="https://i.postimg.cc/7hmHBs58/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="512x512" href="https://i.postimg.cc/8cBJTms4/android-chrome-512x512.png">
+    
+    <!-- PWA / Mobile Theme -->
+    <meta name="theme-color" content="#000000">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Next Toppers">
+    <link rel="manifest" href="/manifest.json" />
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <script type="module" crossorigin src="/assets/index-CmjNEPjE.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-DyB5D86j.css">
+  </head>
+  <body class="bg-[#050505] text-white">
+    <!-- SEO Semantic Content (Hidden from users, visible to crawlers) -->
+    <section style="display:none">
+      <h1>Next Toppers - India's Premium Education Hub</h1>
+      <p>Next Toppers is a comprehensive study platform for Class 8, 9, 10, 11, and 12 students. We offer class notes, JEE preparation modules, NEET preparation tests, and offline PDF downloads.</p>
+      <h2>Free Study Material for CBSE & State Boards</h2>
+      <ul>
+        <li>Free batches for Class 10 Board Exams</li>
+        <li>JEE Mains and Advanced Video Lectures</li>
+        <li>NEET Biology and Physics Mock Tests</li>
+        <li>Daily Practice Problems (DPP) PDF Download</li>
+        <li>Live and Recorded Online Lectures</li>
+      </ul>
+    </section>
+
+    <div id="root"></div>
+  </body>
+</html>
+
